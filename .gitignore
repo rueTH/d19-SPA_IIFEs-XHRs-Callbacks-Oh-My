@@ -1,0 +1,11 @@
+# Ignore everything
+/*
+/*/
+
+# Inverse ignore some stuff
+!/js/
+!carnivores.JSON
+!herbivores.JSON
+!index.html
+!README.md
+!.gitignore
